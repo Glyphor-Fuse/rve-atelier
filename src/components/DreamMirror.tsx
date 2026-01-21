@@ -1,4 +1,5 @@
-import React, { useState } from 'react';
+// Note: src/App.tsx, src/components/Footer.tsx, and src/utils/GlyphorBadge.tsx also reported TS6133 errors but their contents were not provided.
+import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Play } from 'lucide-react';
 

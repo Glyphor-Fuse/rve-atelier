@@ -1,4 +1,3 @@
-import React from 'react';
 import { motion, useScroll, useTransform } from 'framer-motion';
 import { Hero } from '../components/Hero';
 import { DreamMirror } from '../components/DreamMirror';
