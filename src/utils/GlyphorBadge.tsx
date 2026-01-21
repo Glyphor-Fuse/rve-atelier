@@ -1,5 +1,3 @@
-import React from 'react';
-
 export const GlyphorBadge = () => {
   return (
     <div className="fixed bottom-6 right-6 z-[9999]">
