@@ -12,14 +12,14 @@ export const Hero = () => {
       <div className="absolute inset-0 z-0">
         <motion.div style={{ y: y1 }} className="absolute top-20 left-[10%] w-64 h-96 opacity-40">
           <img 
-            src="<span className="block"><img src="https://images.pexels.com/photos/32848902/pexels-photo-32848902.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="A striking model in avant-garde fashion poses amidst a serene Istanbul forest." loading="lazy" /><a href="https://www.pexels.com/photo/avant-garde-fashion-portrait-in-nature-32848902/" target="_blank" rel="noopener noreferrer" className="text-[10px] text-slate-400 block mt-0.5">Photo by Eyüpcan Timur on Pexels</a></span>" 
+            src="https://images.pexels.com/photos/32848902/pexels-photo-32848902.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" 
             alt="Runway 01" 
             className="w-full h-full object-cover filter contrast-125 rounded-sm"
           />
         </motion.div>
         <motion.div style={{ y: y2 }} className="absolute bottom-20 right-[15%] w-72 h-[30rem] opacity-30">
           <img 
-            src="<span className="block"><img src="https://images.pexels.com/photos/15373667/pexels-photo-15373667.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Elegant black and white portrait of a woman in a white dress against a dark backdrop." loading="lazy" /><a href="https://www.pexels.com/photo/woman-in-white-sundress-in-black-and-white-15373667/" target="_blank" rel="noopener noreferrer" className="text-[10px] text-slate-400 block mt-0.5">Photo by Julia Vilner on Pexels</a></span>" 
+            src="https://images.pexels.com/photos/15373667/pexels-photo-15373667.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" 
             alt="Runway 02" 
             className="w-full h-full object-cover filter brightness-75 rounded-sm"
           />

@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { X, Search, User } from 'lucide-react';
+import { Search, User } from 'lucide-react';
 
 export const Navbar = () => {
   return (

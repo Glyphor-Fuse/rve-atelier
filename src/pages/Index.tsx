@@ -61,7 +61,7 @@ const Index = () => {
           className="absolute inset-0"
         >
           <img 
-            src="<span className="block"><img src="https://images.pexels.com/photos/9962757/pexels-photo-9962757.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="A captivating black and white abstract image featuring liquid-like reflections, creating an artistic and mysterious pattern." loading="lazy" /><a href="https://www.pexels.com/photo/black-and-white-photo-of-reflection-in-water-9962757/" target="_blank" rel="noopener noreferrer" className="text-[10px] text-slate-400 block mt-0.5">Photo by Plato Terentev on Pexels</a></span>" 
+            src="https://images.pexels.com/photos/9962757/pexels-photo-9962757.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" 
             alt="Manifesto Background" 
             className="w-full h-full object-cover grayscale"
           />

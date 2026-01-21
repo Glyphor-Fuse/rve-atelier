@@ -6,9 +6,9 @@ export const DreamMirror = () => {
   const [activeFrame, setActiveFrame] = useState(0);
 
   const frames = [
-    "<span className="block"><img src="https://images.pexels.com/photos/13726717/pexels-photo-13726717.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Elegant off-shoulder blouse paired with white pants, exuding a minimalist and stylish vibe." loading="lazy" /><a href="https://www.pexels.com/photo/a-person-wearing-a-white-off-shoulder-blouse-and-white-pants-13726717/" target="_blank" rel="noopener noreferrer" className="text-[10px] text-slate-400 block mt-0.5">Photo by Valerie Voila on Pexels</a></span>",
-    "<span className="block"><img src="https://images.pexels.com/photos/9403197/pexels-photo-9403197.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Fashionable woman in a dimly lit room, showcasing stylish attire and accessories, striking a pose." loading="lazy" /><a href="https://www.pexels.com/photo/woman-in-short-hair-wearing-red-long-sleeve-shirt-and-plaid-trousers-carrying-hand-bags-9403197/" target="_blank" rel="noopener noreferrer" className="text-[10px] text-slate-400 block mt-0.5">Photo by Arminas Vasiljev on Pexels</a></span>",
-    "<span className="block"><img src="https://images.pexels.com/photos/19545626/pexels-photo-19545626.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Two women wearing VR headsets explore virtual reality, captured in monochrome." loading="lazy" /><a href="https://www.pexels.com/photo/models-with-virtual-reality-goggles-on-heads-19545626/" target="_blank" rel="noopener noreferrer" className="text-[10px] text-slate-400 block mt-0.5">Photo by Ila Bappa Ibrahim on Pexels</a></span>"
+    "https://images.pexels.com/photos/13726717/pexels-photo-13726717.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "https://images.pexels.com/photos/9403197/pexels-photo-9403197.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "https://images.pexels.com/photos/19545626/pexels-photo-19545626.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   ];
 
   return (
