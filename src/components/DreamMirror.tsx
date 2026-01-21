@@ -1,4 +1,7 @@
-// Note: src/App.tsx, src/components/Footer.tsx, and src/utils/GlyphorBadge.tsx also reported TS6133 errors but their contents were not provided.
+// The following errors could not be resolved because the file contents were not provided:
+// - src/App.tsx: 'React' is declared but its value is never read. (TS6133)
+// - src/components/Footer.tsx: 'React' is declared but its value is never read. (TS6133)
+// - src/utils/GlyphorBadge.tsx: 'React' is declared but its value is never read. (TS6133)
 import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Play } from 'lucide-react';
